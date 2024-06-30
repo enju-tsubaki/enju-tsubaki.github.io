@@ -3,11 +3,11 @@
   <title>Coisini</title>
   
   <subtitle>一見旧知のようです、万千の歓喜心が生まれます</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://enju-tsubaki.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://enju-tsubaki.github.io/"/>
   <updated>2024-06-30T07:27:41.627Z</updated>
-  <id>http://example.com/</id>
+  <id>https://enju-tsubaki.github.io/</id>
   
   <author>
     <name>Coisini</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://enju-tsubaki.github.io/posts/4a17b156.html"/>
+    <id>https://enju-tsubaki.github.io/posts/4a17b156.html</id>
     <published>2024-06-30T02:37:16.710Z</published>
     <updated>2024-06-30T07:27:41.627Z</updated>
     
