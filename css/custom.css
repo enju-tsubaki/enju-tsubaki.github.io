@@ -1,28 +1,24 @@
-/* @font-face {
-  font-family: Candyhome;
-  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/Candyhome.ttf);
-  font-display: swap;
-  font-weight: lighter;
-} */
 @font-face {
-  font-family: ZhuZiAYuanJWD;
-  src: url(https://npm.elemecdn.com/anzhiyu-blog@1.1.6/fonts/ZhuZiAWan.woff2);
+  font-family: iconfont;
+  src: url('/fonts/iconfont.woff2') format('woff2');
   font-display: swap;
   font-weight: lighter;
 }
 
 div#menus {
-  font-family: "ZhuZiAYuanJWD";
+  font-family: "iconfont";
 }
+
 h1#site-title {
-  font-family: ZhuZiAYuanJWD;
+  font-family: iconfont;
   font-size: 3em !important;
 }
+
 a.article-title,
 a.blog-slider__title,
 a.categoryBar-list-link,
 h1.post-title {
-  font-family: ZhuZiAYuanJWD;
+  font-family: iconfont;
 }
 
 .iconfont {
@@ -33,6 +29,164 @@ h1.post-title {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.icon-fenleiorguangchangorqitatianchong:before {
+  content: "\e67d";
+}
+
+.icon-pengyouquan:before {
+  content: "\e669";
+}
+
+.icon-yinle:before {
+  content: "\e60a";
+}
+
+.icon-zhuye-copy:before {
+  content: "\e608";
+}
+
+.icon-liuyanban:before {
+  content: "\e703";
+}
+
+.icon-rss:before {
+  content: "\e600";
+}
+
+.icon-icon-checked:before {
+  content: "\e601";
+}
+
+.icon-zhifeiji:before {
+  content: "\e6f3";
+}
+
+.icon-bilibili:before {
+  content: "\e602";
+}
+
+.icon-liaotian:before {
+  content: "\e759";
+}
+
+.icon-lianjie:before {
+  content: "\e612";
+}
+
+.icon-QQ:before {
+  content: "\e641";
+}
+
+.icon-github:before {
+  content: "\e722";
+}
+
+.icon-bilibili1:before {
+  content: "\eb78";
+}
+
+.icon-youxiangyoujian:before {
+  content: "\e607";
+}
+
+.icon-shichen-shen:before {
+  content: "\e64a";
+}
+
+.icon-shichen-wei:before {
+  content: "\e64b";
+}
+
+.icon-shichen-si:before {
+  content: "\e64c";
+}
+
+.icon-shichen-wu:before {
+  content: "\e64d";
+}
+
+.icon-shichen-yin:before {
+  content: "\e64e";
+}
+
+.icon-shichen-zi:before {
+  content: "\e64f";
+}
+
+.icon-shichen-you:before {
+  content: "\e650";
+}
+
+.icon-shichen-xu:before {
+  content: "\e651";
+}
+
+.icon-shichen-chen:before {
+  content: "\e652";
+}
+
+.icon-shichen-hai:before {
+  content: "\e653";
+}
+
+.icon-shichen-chou:before {
+  content: "\e654";
+}
+
+.icon-shichen-mao:before {
+  content: "\e655";
+}
+
+.icon-shengxiaoniu:before {
+  content: "\e603";
+}
+
+.icon-shengxiaohou:before {
+  content: "\e685";
+}
+
+.icon-shengxiaohu:before {
+  content: "\e686";
+}
+
+.icon-shengxiaoshe:before {
+  content: "\e687";
+}
+
+.icon-shengxiaotu:before {
+  content: "\e688";
+}
+
+.icon-shengxiaolong:before {
+  content: "\e689";
+}
+
+.icon-shengxiaoshu:before {
+  content: "\e68a";
+}
+
+.icon-shengxiaoma:before {
+  content: "\e70e";
+}
+
+.icon-shengxiaogou:before {
+  content: "\e70f";
+}
+
+.icon-shengxiaozhu:before {
+  content: "\e710";
+}
+
+.icon-shengxiaoyang:before {
+  content: "\e711";
+}
+
+.icon-shengxiaoji:before {
+  content: "\e712";
+}
+
+
 
 /* 时间轴生肖icon */
 svg.icon {
@@ -55,17 +209,21 @@ svg.icon {
   color: var(--anzhiyu-ahoverbg);
   border-radius: 10px;
 }
+
 a.bangumi-tab:hover {
   text-decoration: none !important;
 }
+
 .bangumi-button:hover {
   background: var(--anzhiyu-theme) !important;
   border-radius: 10px !important;
   color: var(--anzhiyu-ahoverbg) !important;
 }
+
 a.bangumi-button.bangumi-nextpage:hover {
   text-decoration: none !important;
 }
+
 .bangumi-button {
   padding: 5px 10px !important;
 }
@@ -73,21 +231,25 @@ a.bangumi-button.bangumi-nextpage:hover {
 a.bangumi-tab {
   padding: 5px 10px !important;
 }
+
 svg.icon.faa-tada {
   font-size: 1.1em;
 }
+
 .bangumi-info-item {
   border-right: 1px solid #f2b94b;
 }
+
 .bangumi-info-item span {
   color: #f2b94b;
 }
+
 .bangumi-info-item em {
   color: #f2b94b;
 }
 
 /* 解决artitalk的图标问题 */
-#uploadSource > svg {
+#uploadSource>svg {
   width: 1.19em;
   height: 1.5em;
 }
@@ -98,7 +260,7 @@ svg.icon.faa-tada {
 }
 
 /* 首页文章卡片 */
-#recent-posts > .recent-post-item {
+#recent-posts>.recent-post-item {
   background: rgba(255, 255, 255, 0.9);
 }
 
@@ -133,7 +295,7 @@ div#category {
 }
 
 /*夜间模式伪类遮罩层透明*/
-[data-theme="dark"] #recent-posts > .recent-post-item {
+[data-theme="dark"] #recent-posts>.recent-post-item {
   background: #121212;
 }
 
@@ -164,6 +326,7 @@ div#category {
 [data-theme="dark"] div#category {
   background: transparent !important;
 }
+
 /* 页脚透明 */
 #footer {
   background: transparent !important;
@@ -174,7 +337,7 @@ div#category {
   background: transparent !important;
 }
 
-#rightside > div > button {
+#rightside>div>button {
   border-radius: 5px;
 }
 
@@ -293,15 +456,18 @@ div#category {
   font-size: 14px;
   font-family: Titillium Web, "PingFang SC", "Hiragino Sans GB", "Microsoft JhengHei", "Microsoft YaHei", sans-serif;
 }
+
 #error-wrap .error-content .error-info .error_title {
   margin-top: -4rem;
   font-size: 9em;
 }
+
 #error-wrap .error-content .error-info .error_subtitle {
   margin-top: -3.5rem;
   word-break: break-word;
   font-size: 1.6em;
 }
+
 #error-wrap .error-content .error-info a {
   display: inline-block;
   margin-top: 0.5rem;
