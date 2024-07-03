@@ -46,13 +46,13 @@
     
     <category term="MyBatis" scheme="https://enju-tsubaki.github.io/tags/MyBatis/"/>
     
+    <category term="Maven" scheme="https://enju-tsubaki.github.io/tags/Maven/"/>
+    
     <category term="微服务" scheme="https://enju-tsubaki.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
     
     <category term="容器化" scheme="https://enju-tsubaki.github.io/tags/%E5%AE%B9%E5%99%A8%E5%8C%96/"/>
     
     <category term="云服务" scheme="https://enju-tsubaki.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/"/>
-    
-    <category term="Maven" scheme="https://enju-tsubaki.github.io/tags/Maven/"/>
     
   </entry>
   
