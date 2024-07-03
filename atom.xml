@@ -6,7 +6,7 @@
   <link href="https://enju-tsubaki.github.io/atom.xml" rel="self"/>
   
   <link href="https://enju-tsubaki.github.io/"/>
-  <updated>2024-07-01T03:35:40.771Z</updated>
+  <updated>2024-07-03T11:57:22.485Z</updated>
   <id>https://enju-tsubaki.github.io/</id>
   
   <author>
@@ -18,12 +18,12 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://enju-tsubaki.github.io/posts/4a17b156.html"/>
-    <id>https://enju-tsubaki.github.io/posts/4a17b156.html</id>
+    <link href="https://enju-tsubaki.github.io/posts/3610a686.html"/>
+    <id>https://enju-tsubaki.github.io/posts/3610a686.html</id>
     <published>2024-06-30T02:37:16.710Z</published>
-    <updated>2024-07-01T03:35:40.771Z</updated>
+    <updated>2024-07-03T11:57:22.485Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>🌟 <strong>简单的自我介绍</strong></p><p>大家好，我是Coisini，一个来自古城西安的普通大二学生。目前就读陕西理工大学数计学院人工智能专业。</p><p>🚀 <strong>编程的目标方向</strong></p><p>我对编程充满热情，特别是Java软件开发。在一开始，接触前端开发的时候，我发现了Vue.js，这个渐进式JavaScript框架让我能够更加便捷地构建出响应式和交互式的用户界面。而在后端领域，SpringBoot凭借其基于Spring框架的便捷性，成为了我快速构建独立、生产级别应用程序的首选工具。为了更好地处理数据访问层，我学习了MyBatis，这个优秀的持久层框架简化了数据库操作，让我能够将更多精力集中在业务逻辑的实现上。同时，我也学习了Maven，这个强大的项目管理和构建自动化工具，它帮助我高效地管理项目的依赖、构建和文档。</p><p>每当我学会一个新的概念或者解决了一个难题，我都会感到非常的兴奋和满足。我希望通过不断的实践和学习，能够将这些技术运用到实际项目中，最终成为一名能够构建出高质量、可扩展的企业级应用的工程师。</p><p>🌱 <strong>未来的学习方向</strong></p><p>我知道自己的路还很长，未来我打算继续深入学习微服务架构、容器化技术（比如Docker和Kubernetes），以及云服务。我相信这些知识和技能对于适应现代软件开发的需求至关重要。虽然我现在还是个新手，但我相信通过不断的学习和实践，我能够不断提升自己的技术水平。</p>]]></content>
     
     
       
@@ -33,6 +33,26 @@
     
     
     
+    <category term="个人简介" scheme="https://enju-tsubaki.github.io/categories/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/"/>
+    
+    <category term="编程学习" scheme="https://enju-tsubaki.github.io/categories/%E4%B8%AA%E4%BA%BA%E7%AE%80%E4%BB%8B/%E7%BC%96%E7%A8%8B%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+    <category term="Java" scheme="https://enju-tsubaki.github.io/tags/Java/"/>
+    
+    <category term="Vue.js" scheme="https://enju-tsubaki.github.io/tags/Vue-js/"/>
+    
+    <category term="SpringBoot" scheme="https://enju-tsubaki.github.io/tags/SpringBoot/"/>
+    
+    <category term="MyBatis" scheme="https://enju-tsubaki.github.io/tags/MyBatis/"/>
+    
+    <category term="微服务" scheme="https://enju-tsubaki.github.io/tags/%E5%BE%AE%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="容器化" scheme="https://enju-tsubaki.github.io/tags/%E5%AE%B9%E5%99%A8%E5%8C%96/"/>
+    
+    <category term="云服务" scheme="https://enju-tsubaki.github.io/tags/%E4%BA%91%E6%9C%8D%E5%8A%A1/"/>
+    
+    <category term="Maven" scheme="https://enju-tsubaki.github.io/tags/Maven/"/>
     
   </entry>
   
