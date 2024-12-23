@@ -6,7 +6,7 @@
   <link href="https://www.enju-tsubaki.icu/atom.xml" rel="self"/>
   
   <link href="https://www.enju-tsubaki.icu/"/>
-  <updated>2024-09-05T08:03:49.473Z</updated>
+  <updated>2024-12-23T10:04:15.948Z</updated>
   <id>https://www.enju-tsubaki.icu/</id>
   
   <author>
@@ -20,15 +20,15 @@
     <title>Hello World</title>
     <link href="https://www.enju-tsubaki.icu/posts/3610a686.html"/>
     <id>https://www.enju-tsubaki.icu/posts/3610a686.html</id>
-    <published>2024-06-30T02:37:16.710Z</published>
-    <updated>2024-09-05T08:03:49.473Z</updated>
+    <published>2024-12-23T10:04:15.948Z</published>
+    <updated>2024-12-23T10:04:15.948Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>🌟 <strong>简单的自我介绍</strong></p><p>大家好，我是 Coisini，一个来自古城西安的普通大二学生。目前就读陕西理工大学数计学院人工智能专业。</p><p>🚀 <strong>编程的目标方向</strong></p><p>我对编程充满热情，特别是 Java 软件开发。在一开始，接触前端开发的时候，我发现了 Vue.js，这个渐进式 JavaScript 框架让我能够更加便捷地构建出响应式和交互式的用户界面。而在后端领域，SpringBoot 凭借其基于 Spring 框架的便捷性，成为了我快速构建独立、生产级别应用程序的首选工具。为了更好地处理数据访问层，我学习了 MyBatis，这个优秀的持久层框架简化了数据库操作，让我能够将更多精力集中在业务逻辑的实现上。同时，我也学习了 Maven，这个强大的项目管理和构建自动化工具，它帮助我高效地管理项目的依赖、构建和文档。</p><p>每当我学会一个新的概念或者解决了一个难题，我都会感到非常的兴奋和满足。我希望通过不断的实践和学习，能够将这些技术运用到实际项目中，最终成为一名能够构建出高质量、可扩展的企业级应用的工程师。</p><p>🌱 <strong>未来的学习方向</strong></p><p>我知道自己的路还很长，未来我打算继续深入学习微服务架构、容器化技术（比如 Docker 和 Kubernetes），以及云服务。我相信这些知识和技能对于适应现代软件开发的需求至关重要。虽然我现在还是个新手，但我相信通过不断的学习和实践，我能够不断提升自己的技术水平。</p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script><p>🌟 <strong>简单的自我介绍</strong></p><p>大家好，我是 Coisini，一个来自古城西安的普通大二学生。目前就读陕西理工大学数计学院人工智能专业。</p><p>🚀 <strong>编程的目标方向</strong></p><p>我对编程充满热情，特别是 Java 软件开发。在一开始，接触前端开发的时候，我发现了 Vue.js，这个渐进式 JavaScript 框架让我能够更加便捷地构建出响应式和交互式的用户界面。而在后端领域，SpringBoot 凭借其基于 Spring 框架的便捷性，成为了我快速构建独立、生产级别应用程序的首选工具。为了更好地处理数据访问层，我学习了 MyBatis，这个优秀的持久层框架简化了数据库操作，让我能够将更多精力集中在业务逻辑的实现上。同时，我也学习了 Maven，这个强大的项目管理和构建自动化工具，它帮助我高效地管理项目的依赖、构建和文档。</p><p>每当我学会一个新的概念或者解决了一个难题，我都会感到非常的兴奋和满足。我希望通过不断的实践和学习，能够将这些技术运用到实际项目中，最终成为一名能够构建出高质量、可扩展的企业级应用的工程师。</p><p>🌱 <strong>未来的学习方向</strong></p><p>我知道自己的路还很长，未来我打算继续深入学习微服务架构、容器化技术（比如 Docker 和 Kubernetes），以及云服务。我相信这些知识和技能对于适应现代软件开发的需求至关重要。虽然我现在还是个新手，但我相信通过不断的学习和实践，我能够不断提升自己的技术水平。</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;&#92;assets&#92;css&#92;APlayer.min.css&quot;&gt;&lt;script src=&quot;&#92;assets&#92;js&#92;APlayer.min.js&quot; cla</summary>
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
       
     
     
