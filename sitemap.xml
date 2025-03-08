@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://www.enju-tsubaki.icu/posts/8164788f.html</loc>
+    
+    <lastmod>2025-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.enju-tsubaki.icu/posts/6bddf6c7.html</loc>
     
     <lastmod>2025-03-08</lastmod>
@@ -48,15 +57,6 @@
   
   <url>
     <loc>https://www.enju-tsubaki.icu/posts/3b1e1cd9.html</loc>
-    
-    <lastmod>2025-03-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.enju-tsubaki.icu/posts/8164788f.html</loc>
     
     <lastmod>2025-03-08</lastmod>
     
@@ -153,6 +153,20 @@
   
   <url>
     <loc>https://www.enju-tsubaki.icu/tags/%E7%BA%BF%E6%80%A7%E5%9B%9E%E5%BD%92/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.enju-tsubaki.icu/tags/%E6%AD%A3%E8%A7%84%E6%96%B9%E7%A8%8B/</loc>
+    <lastmod>2025-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.enju-tsubaki.icu/tags/%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95/</loc>
     <lastmod>2025-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
