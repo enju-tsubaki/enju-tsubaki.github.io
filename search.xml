@@ -55,6 +55,12 @@
             
             <tag> 线性回归 </tag>
             
+            <tag> 过拟合 </tag>
+            
+            <tag> 欠拟合 </tag>
+            
+            <tag> 正则化 </tag>
+            
         </tags>
       
     </entry>
@@ -265,6 +271,17 @@
     
     
     <entry>
+      <title>分类</title>
+      <link href="/categories/index.html"/>
+      <url>/categories/index.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title></title>
       <link href="/css/custom.css"/>
       <url>/css/custom.css</url>
@@ -292,17 +309,6 @@
       <url>/js/diytitle.js</url>
       
         <content type="html"><![CDATA[//动态标题var OriginTitile = document.title;var titleTime;document.addEventListener("visibilitychange", function () {    if (document.hidden) {        //离开当前页面时标签显示内容        document.title = "w(ﾟДﾟ)w 不要走！再看看嘛！";        clearTimeout(titleTime);    } else {        //返回当前页面时标签显示内容        document.title = "♪(^∇^*)欢迎肥来！" + OriginTitile;        //两秒后变回正常标题        titleTime = setTimeout(function () {            document.title = OriginTitile;        }, 2000);    }});]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>分类</title>
-      <link href="/categories/index.html"/>
-      <url>/categories/index.html</url>
-      
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="/assets/js/Meting.min.js"></script>]]></content>
       
     </entry>
     
